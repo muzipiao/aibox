@@ -66,3 +66,22 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="/minima/assets/aibox_win_light.png">
+        <img src="/minima/assets/aibox_win_light.png" alt="Win 白天模式" width="95%"/>
+      </a>
+      <br />
+      Win浅色
+    </td>
+    <td align="center">
+      <a href="/minima/assets/aibox_win_dark.png">
+        <img src="/minima/assets/aibox_win_dark.png" alt="Win 暗黑模式" width="95%"/>
+      </a>
+      <br />
+      Win暗黑
+    </td>
+  </tr>
+</table>
