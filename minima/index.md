@@ -6,7 +6,7 @@ layout: home
 ---
 
 <p align="center">
-  <img src="/assets/favicon-384x384.png" alt="AIBOX" width="36%"/>
+  <img src="/assets/favicon-384x384.png" alt="AIBOX" width="20%"/>
 </p>
 
 欢迎您使用AI盒子！AI盒子是一款工具型移动应用。支持 iOS、Android、MacOS、Windows，支持暗黑模式。

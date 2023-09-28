@@ -22,14 +22,32 @@ permalink: /about/
 <table cellspacing="12">
   <tr>
     <td align="center">
-      <img src="/assets/aibox_ios_light.jpg" alt="iOS 白天模式" width="80%"/>
+      <a href="/assets/aibox_ios_light.jpg">
+        <img src="/assets/aibox_ios_light.jpg" alt="iOS 白天模式"/>
+      </a>
       <br />
-      iOS 白天模式
+      iOS浅色
     </td>
     <td align="center">
-      <img src="/assets/aibox_ios_dark.jpeg" alt="iOS 暗黑模式" width="80%"/>
+      <a href="/assets/aibox_ios_dark.jpg">
+        <img src="/assets/aibox_ios_dark.jpg" alt="iOS 暗黑模式"/>
+      </a>
       <br />
-      iOS 暗黑模式
+      iOS暗黑
+    </td>
+    <td align="center">
+      <a href="/assets/aibox_android_light.jpg">
+        <img src="/assets/aibox_android_light.jpg" alt="Android 白天模式" width="86%"/>
+      </a>
+      <br />
+      安卓浅色
+    </td>
+    <td align="center">
+      <a href="/assets/aibox_android_dark.jpg">
+        <img src="/assets/aibox_android_dark.jpg" alt="Android 暗黑模式" width="86%"/>
+      </a>
+      <br />
+      安卓暗黑
     </td>
   </tr>
 </table>
@@ -37,31 +55,18 @@ permalink: /about/
 <table>
   <tr>
     <td align="center">
-      <img src="/assets/aibox_android_light.jpg" alt="Android 白天模式" width="80%"/>
+      <a href="/assets/aibox_mac_light.png">
+        <img src="/assets/aibox_mac_light.png" alt="Mac 白天模式" width="100%"/>
+      </a>
       <br />
-      Android 白天模式
+      Mac浅色
     </td>
     <td align="center">
-      <img src="/assets/aibox_android_dark.jpg" alt="Android 暗黑模式" width="80%"/>
+      <a href="/assets/aibox_mac_dark.png">
+        <img src="/assets/aibox_mac_dark.png" alt="Mac 暗黑模式" width="100%"/>
+      </a>
       <br />
-      Android 暗黑模式
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="/assets/aibox_mac_light.png" alt="Mac 白天模式" width="80%"/>
-      <br />
-      Mac 白天模式
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="/assets/aibox_mac_dark.png" alt="Mac 暗黑模式" width="80%"/>
-      <br />
-      Mac 暗黑模式
+      Mac暗黑
     </td>
   </tr>
 </table>
