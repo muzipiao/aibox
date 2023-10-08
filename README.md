@@ -1,7 +1,7 @@
 # AIBox
 
 <p align="center">
-  <img src="/minima/assets/favicon-384x384.png" alt="AIBOX" width="36%"/>
+  <img src="/docs/assets/favicon-384x384.png" alt="AIBOX" width="36%"/>
 </p>
 
 欢迎您使用AI盒子！AI盒子是一款工具型移动应用。支持 iOS、Android、MacOS、Windows，支持暗黑模式。
@@ -18,29 +18,29 @@
 <table cellspacing="12">
   <tr>
     <td align="center">
-      <a href="/minima/assets/aibox_ios_light.jpg">
-        <img src="/minima/assets/aibox_ios_light.jpg" alt="iOS 白天模式"/>
+      <a href="/docs/assets/aibox_ios_light.jpg">
+        <img src="/docs/assets/aibox_ios_light.jpg" alt="iOS 白天模式"/>
       </a>
       <br />
       iOS浅色
     </td>
     <td align="center">
-      <a href="/minima/assets/aibox_ios_dark.jpg">
-        <img src="/minima/assets/aibox_ios_dark.jpg" alt="iOS 暗黑模式"/>
+      <a href="/docs/assets/aibox_ios_dark.jpg">
+        <img src="/docs/assets/aibox_ios_dark.jpg" alt="iOS 暗黑模式"/>
       </a>
       <br />
       iOS暗黑
     </td>
     <td align="center">
-      <a href="/minima/assets/aibox_android_light.jpg">
-        <img src="/minima/assets/aibox_android_light.jpg" alt="Android 白天模式" width="86%"/>
+      <a href="/docs/assets/aibox_android_light.jpg">
+        <img src="/docs/assets/aibox_android_light.jpg" alt="Android 白天模式" width="86%"/>
       </a>
       <br />
       安卓浅色
     </td>
     <td align="center">
-      <a href="/minima/assets/aibox_android_dark.jpg">
-        <img src="/minima/assets/aibox_android_dark.jpg" alt="Android 暗黑模式" width="86%"/>
+      <a href="/docs/assets/aibox_android_dark.jpg">
+        <img src="/docs/assets/aibox_android_dark.jpg" alt="Android 暗黑模式" width="86%"/>
       </a>
       <br />
       安卓暗黑
@@ -51,15 +51,15 @@
 <table>
   <tr>
     <td align="center">
-      <a href="/minima/assets/aibox_mac_light.png">
-        <img src="/minima/assets/aibox_mac_light.png" alt="Mac 白天模式" width="100%"/>
+      <a href="/docs/assets/aibox_mac_light.png">
+        <img src="/docs/assets/aibox_mac_light.png" alt="Mac 白天模式" width="100%"/>
       </a>
       <br />
       Mac浅色
     </td>
     <td align="center">
-      <a href="/minima/assets/aibox_mac_dark.png">
-        <img src="/minima/assets/aibox_mac_dark.png" alt="Mac 暗黑模式" width="100%"/>
+      <a href="/docs/assets/aibox_mac_dark.png">
+        <img src="/docs/assets/aibox_mac_dark.png" alt="Mac 暗黑模式" width="100%"/>
       </a>
       <br />
       Mac暗黑
@@ -70,15 +70,15 @@
 <table>
   <tr>
     <td align="center">
-      <a href="/minima/assets/aibox_win_light.png">
-        <img src="/minima/assets/aibox_win_light.png" alt="Win 白天模式" width="95%"/>
+      <a href="/docs/assets/aibox_win_light.png">
+        <img src="/docs/assets/aibox_win_light.png" alt="Win 白天模式" width="95%"/>
       </a>
       <br />
       Win浅色
     </td>
     <td align="center">
-      <a href="/minima/assets/aibox_win_dark.png">
-        <img src="/minima/assets/aibox_win_dark.png" alt="Win 暗黑模式" width="95%"/>
+      <a href="/docs/assets/aibox_win_dark.png">
+        <img src="/docs/assets/aibox_win_dark.png" alt="Win 暗黑模式" width="95%"/>
       </a>
       <br />
       Win暗黑
