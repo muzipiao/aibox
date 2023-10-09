@@ -22,7 +22,7 @@ title: AIBOX # 网站标题
 email: ai_box@qq.com # 电子邮箱
 description: >- # this means to ignore newlines until "baseurl:"
   智能实用工具合集。
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/aibox" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  muzipiao
 
