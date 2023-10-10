@@ -17,3 +17,44 @@ layout: home
 * JSON格式化：格式化和检查 JSON 字符串，查找文本，跳转错误等；
 * JSON对比：对比 JSON 字符串，并计算出新增、删除、更改的 JSON 键值；
 * .........................
+
+<table cellspacing="12">
+  <tr>
+    <td align="center">
+      <a href="https://install.appcenter.ms/users/cocoafei/apps/aibox-1/distribution_groups/allmac">
+        <img src="/aibox/assets/icon_macos.png" alt="MacOS 平台下载" width="50%"/>
+        <br />
+        MacOS 10.14 — 13
+        <br />
+        (dmg, 95.54 MB)
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="/aibox/assets/icon_windows.png" alt="Windows 平台下载" width="50%"/>
+        <br />
+        Windows 10 - 11
+        <br />
+        (msix, 137.16 MB)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://install.appcenter.ms/users/cocoafei/apps/aibox/distribution_groups/allpeople">
+        <img src="/aibox/assets/icon_android.png" alt="Android 平台下载" width="50%"/>
+        <br />
+        Android 16 - latest
+        <br />
+        (apk, 137.16 MB)
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="/aibox/assets/icon_ios.png" alt="iOS 平台下载" width="50%"/>
+        <br />
+        iOS 11 — latest
+        <br />
+        (ipa, 0.0 MB)
+      </a>
+    </td>
+  </tr>
+</table>
