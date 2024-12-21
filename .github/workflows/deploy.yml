@@ -39,16 +39,14 @@ jobs:
         uses: actions/configure-pages@v4
       # 安装依赖
       - name: Install dependencies
-        working-directory: ./aibox-web
-        run: pwd && ls && npm ci # 或 pnpm install / yarn install / bun install
+        run: npm ci # 或 pnpm install / yarn install / bun install
       # 构建项目
       - name: Build with Vite
-        working-directory: ./aibox-web
         run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: aibox-web/dist
+          path: dist
 
   # 部署工作
   deploy:
