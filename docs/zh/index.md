@@ -14,6 +14,7 @@ hero:
       text: 立即下载
       link: https://aiboxkit.cn/
   image:
-      src: /img/aibox-zh-light.png
+      light: /img/aibox-zh-light.png
+      dark: /img/aibox-zh-dark.png
       alt: AI包包 Logo
 ---

@@ -14,6 +14,18 @@ hero:
       text: Download
       link: https://aiboxkit.cn/
   image:
-      src: /img/aibox-zh-light.png
+      light: /img/aibox-zh-light.png
+      dark: /img/aibox-zh-dark.png
       alt: AIBox Logo
+
+features:
+  - icon: 
+      src: '/img/aibox-zh-dark.png'
+      width: "180px"
+    title: "AIBox"
+    details: "A collection of AI tools for your convenience"
+  - icon: 📚
+    title: "Documentation"
+    details: "Detailed documentation for all tools"
 ---
+
