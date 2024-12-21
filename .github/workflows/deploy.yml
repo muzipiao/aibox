@@ -46,10 +46,10 @@ jobs:
         working-directory: ./aibox-web
         run: npm run build
       - name: Upload artifact
-        working-directory: ./aibox-web
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: aibox-web/dist
+
   # 部署工作
   deploy:
     environment:
