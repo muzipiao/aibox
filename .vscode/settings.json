@@ -1,0 +1,26 @@
+{
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "tsconfig.json": "tsconfig.*.json, env.d.ts",
+    "vite.config.*": "jsconfig*, vitest.config.*, cypress.config.*, playwright.config.*",
+    "package.json": "package-lock.json, pnpm*, .yarnrc*, yarn*, .eslint*, eslint*, .prettier*, prettier*, .editorconfig"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // 字符串中显示代码提示，例如 class="这里会显示建议"
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // Vue 国际化
+  "i18n-ally.localesPaths": ["src/i18n/locales"],
+  "i18n-ally.editor.preferEditor": true, // Webview 的编辑器，您可以在一个页面中管理关键字的翻译，进行审阅和协作
+  "i18n-ally.sortKeys": true, // 字母顺序排序
+  "i18n-ally.sourceLanguage": "zh-CN", // 翻译时的源语言
+  "i18n-ally.displayLanguage": "zh-CN",
+  "i18n-ally.keystyle": "nested"
+}
