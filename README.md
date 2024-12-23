@@ -50,7 +50,7 @@
 
 AI包包是一款跨平台工具型应用，支持在 **iOS**、**Android**、**MacOS** 和 **Windows** 系统上运行。
 
-- **Mac 版本** 通过 [Release](https://github.com/muzipiao/aibox/releases) 页面下载最新版本。
+- **Mac 版本** 通过 [Release](https://github.com/muzipiao/aibox/releases/latest) 页面下载最新版本，[MacOS 安装教程](./INSTALLATION.md)。
 
 - **Windows 版本** 可从 [微软应用市场](https://apps.microsoft.com/detail/9nk7nlk4n4hd?ocid=webpdpshare) 获取。
 
