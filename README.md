@@ -2,62 +2,42 @@
   <img src="/src/assets/images/aibox-zh-light.png" alt="AIBOX" width="66%"/>
 </p>
 
-欢迎您使用 **AI包包**！这是专为简化工作和生活而设计的一站式工具集合，旨在让您的每一天更加高效。AI包包集成了多种实用工具，满足您的多样化需求。
+# AIBOX
 
----
+[![GitHub release](https://img.shields.io/github/v/release/muzipiao/aibox)](https://github.com/muzipiao/aibox/releases)
+[![GitHub license](https://img.shields.io/github/license/muzipiao/aibox)](https://github.com/muzipiao/aibox/blob/main/LICENSE)
 
-## 核心功能
+[English](./README.md) | [简体中文](./README-ZH.md)
 
-1. **身份证打印**  
-   AI智能识别信息，一键生成PDF并打印。
+AIBOX is an open-source all-in-one toolkit application dedicated to simplifying daily work and life through AI technology.
 
-2. **图片压缩**  
-   本地操作，无需上传，安全快捷。
+## ✨ Features
 
-3. **图片拼接**  
-   支持多图拼接，自定义样式与编辑。
+- 🔒 **Secure**: All core functions run locally, no data leakage concerns
+- 🌓 **Dark Mode**: Support light/dark theme switching
+- 🌍 **Multi-language**: Support Chinese, English, and other language interfaces
+- 💻 **Cross-platform**: Support iOS, Android, MacOS and Windows
 
-4. **二维码生成**  
-   本地生成二维码，一键保存。
+## 🚀 Core Functions
 
-5. **今天吃什么**  
-   随机推荐美食，解决选择困难。
+| Function            | Description                                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| ID Card Printing    | AI-powered information recognition, one-click PDF generation                              |
+| Image Compression   | Local compression, no upload needed, fast and convenient                                  |
+| Image Stitching     | Multiple image stitching, customizable styles                                             |
+| QR Code Generation  | Local QR code generation, one-click save                                                  |
+| Food Recommendation | Random food suggestions, no more decision paralysis                                       |
+| Chinese Conversion  | Multiple functions including Simplified/Traditional Chinese conversion, Chinese to Pinyin |
 
-6. **中文转换**  
-   提供简繁体转换、汉字转拼音等多种语言处理功能。
+## 📦 Installation
 
-7. **更多功能**  
-   更多实用工具等您探索！
+- **macOS**: Download the latest version from [Release](https://github.com/muzipiao/aibox/releases/latest) page, [macOS Installation Guide](./INSTALLATION-EN.md).
+- **Windows**: Get it from [Microsoft Store](https://apps.microsoft.com/detail/9nk7nlk4n4hd?ocid=webpdpshare).
+- **Android**: Get it from [Android App Store](https://url.cloud.huawei.com/saNBwLnaN2?shareTo=qrcode).
+- **Web**: [Official Website https://aiboxkit.cn](https://aiboxkit.cn)
 
----
+## 📝 Documentation
 
-## 应用特性
+**Since the macOS application is distributed outside the App Store, you must follow these instructions and only upon first running it.**
 
-- **免费使用**  
-  核心功能完全免费，且持续更新优化。
-
-- **深色模式**  
-  支持浅色和深色主题切换，呵护您的视力。
-
-- **多语言支持**  
-  提供中文、英文等多语言界面，方便不同用户使用。
-
-下载 **AI包包**，让您的工作和生活更简单！
-
----
-
-## 安装体验
-
-AI包包是一款跨平台工具型应用，支持在 **iOS**、**Android**、**MacOS** 和 **Windows** 系统上运行。
-
-- **Mac 版本** 通过 [Release](https://github.com/muzipiao/aibox/releases/latest) 页面下载最新版本，[MacOS 安装教程](./INSTALLATION.md)。
-
-- **Windows 版本** 可从 [微软应用市场](https://apps.microsoft.com/detail/9nk7nlk4n4hd?ocid=webpdpshare) 获取。
-
-- **Android 版本** 可从 [安卓应用市场](https://url.cloud.huawei.com/saNBwLnaN2?shareTo=qrcode) 获取。
-
-- **网页版本体验** 可从 [AI包包官网](https://aiboxkit.cn) 在线体验。
-
----
-
-欢迎加入 **AI包包** 用户社区，发现更多精彩功能！ 🎉
+For detailed instructions, please refer to the [macOS Installation Guide](./INSTALLATION-EN.md).
