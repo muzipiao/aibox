@@ -1,3 +1,7 @@
+# Installation
+
+**English** | [简体中文](./INSTALLATION-ZH.md)
+
 ## macOS
 
 Download the latest macOS Installer (Universal - Intel and Apple Silicon) from [here](https://github.com/muzipiao/aibox/releases/latest)

@@ -7,7 +7,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/muzipiao/aibox)](https://github.com/muzipiao/aibox/releases)
 [![GitHub license](https://img.shields.io/github/license/muzipiao/aibox)](https://github.com/muzipiao/aibox/blob/main/LICENSE)
 
-[English](./README.md) | [简体中文](./README-ZH.md)
+**English** | [简体中文](./README-ZH.md)
 
 AIBOX is an open-source all-in-one toolkit application dedicated to simplifying daily work and life through AI technology.
 

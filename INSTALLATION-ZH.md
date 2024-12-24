@@ -1,3 +1,7 @@
+## 安装说明
+
+[English](./INSTALLATION-EN.md) | **简体中文**
+
 ## macOS
 
 从[此处](https://github.com/muzipiao/aibox/releases/latest)下载最新的 macOS 安装程序（Intel 和 Apple Silicon 通用）。

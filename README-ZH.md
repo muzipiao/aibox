@@ -7,7 +7,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/muzipiao/aibox)](https://github.com/muzipiao/aibox/releases)
 [![GitHub license](https://img.shields.io/github/license/muzipiao/aibox)](https://github.com/muzipiao/aibox/blob/main/LICENSE)
 
-[English](./README.md) | [简体中文](./README-ZH.md)
+[English](./README.md) | **简体中文**
 
 AI包包是一款开源的一站式工具集合应用，致力于通过 AI 技术简化日常工作和生活。
 
